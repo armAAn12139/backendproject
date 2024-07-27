@@ -1,0 +1,2 @@
+ERROR:root:Error reading Excel file: [Errno 22] Invalid argument: 'ThisPC/New Volume(F:)/Book1.xlsv'
+ERROR:root:Error reading Excel file
